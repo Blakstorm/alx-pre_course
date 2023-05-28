@@ -1,1 +1,1 @@
-update from GitHub.com
+update from GitHub
